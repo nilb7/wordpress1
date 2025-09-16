@@ -27,3 +27,21 @@ h1 {
   margin: 2rem;
   font-weight: 700;
 }
+
+.box-rounded{
+  background-color: lightblue;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+  border: 2px solid #333;
+  border-radius: 15px;
+}
+
+.image-cover {
+  width: 400px;
+  height: 300px;
+  background-image: url('https://images.theconversation.com/files/625049/original/file-20241010-15-95v3ha.jpg?ixlib=rb-4.1.0&rect=12%2C96%2C2671%2C1335&q=45&auto=format&w=1356&h=668&fit=crop');
+  background-size: cover;         /* Makes the image cover the div */
+  background-position: center;    /* Centers the image */
+  background-repeat: no-repeat;   /* Prevents image from repeating */
+}

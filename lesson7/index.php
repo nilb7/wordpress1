@@ -25,4 +25,6 @@
   </div>
 <?php endif; ?>
 
+<div class="box-rounded">the box has rounded corners</div>
+<div class="image-cover"></div>
 <?php get_footer(); ?>
