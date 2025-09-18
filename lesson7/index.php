@@ -27,4 +27,7 @@
 
 <div class="box-rounded">the box has rounded corners</div>
 <div class="image-cover"></div>
+
+<div class="shadow">Box with shadow</div>
+<div class="inner-shadow">Box with inner shadow</div>
 <?php get_footer(); ?>
